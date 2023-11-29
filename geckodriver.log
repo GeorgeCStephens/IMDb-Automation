@@ -1,0 +1,151 @@
+1701296820191	geckodriver	INFO	Listening on 127.0.0.1:50916
+1701296823245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQdVAIT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701296823461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701296823518	Marionette	INFO	Listening on port 50927
+WebDriver BiDi listening on ws://127.0.0.1:50917
+Read port: 50927
+1701296823661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50917/devtools/browser/e825833a-d297-45a6-aef0-1c0106dd1c72
+1701296854875	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701296896157	Marionette	INFO	Stopped listening on port 50927
+Dynamically enable window occlusion 1
+1701300862891	geckodriver	INFO	Listening on 127.0.0.1:53280
+1701300865921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3q6eZv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701300866114	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701300866165	Marionette	INFO	Listening on port 53294
+WebDriver BiDi listening on ws://127.0.0.1:53281
+Read port: 53294
+1701300866286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53281/devtools/browser/2f512c0d-2d5e-4b5d-a90e-52c0521bc8ab
+1701300884855	Marionette	INFO	Stopped listening on port 53294
+Dynamically enable window occlusion 1
+1701300895775	geckodriver	INFO	Listening on 127.0.0.1:53340
+1701300898817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileH5aZa8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701300899059	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701300899107	Marionette	INFO	Listening on port 53350
+WebDriver BiDi listening on ws://127.0.0.1:53341
+Read port: 53350
+1701300899227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53341/devtools/browser/770a030d-2b9b-4fc3-9813-181718d72a71
+1701300929181	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.imdb.com/, line 1603: Script terminated by timeout at:
+l@https://www.imdb.com/:1603:262
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701300937465	Marionette	INFO	Stopped listening on port 53350
+Dynamically enable window occlusion 1
+1701300941072	geckodriver	INFO	Listening on 127.0.0.1:53433
+1701300944106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileVvm3Zx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701300944314	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701300944368	Marionette	INFO	Listening on port 53441
+WebDriver BiDi listening on ws://127.0.0.1:53434
+Read port: 53441
+1701300944490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53434/devtools/browser/c0cafd09-20f6-4d0f-bcb7-d55cb45691dd
+JavaScript warning: https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js, line 1: Script terminated by timeout at:
+b.init/<@https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js:1:17707
+
+1701300975556	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.imdb.com/registration/signin1701301236204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53546" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilesL2prD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701301236425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701301236484	Marionette	INFO	Listening on port 53556
+WebDriver BiDi listening on ws://127.0.0.1:53546
+Read port: 53556
+1701301236618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53546/devtools/browser/03e11fd5-b9b0-4ce2-9fbe-374aa2ea3745
+JavaScript warning: https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js, line 1: Script terminated by timeout at:
+b.init/<@https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js:1:17762
+
+1701301268034	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.imdb.com/registration/signin?ref=nv_generic_lgin&u=%2F, line 1033: Script terminated by timeout at:
+l@https://www.imdb.com/registration/signin?ref=nv_generic_lgin&u=%2F:1033:262
+
+1701301286730	Marionette	INFO	Stopped listening on port 53556
+Dynamically enable window occlusion 1
+1701301289457	geckodriver	INFO	Listening on 127.0.0.1:53640
+1701301292512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejbuRpi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701301292702	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701301292746	Marionette	INFO	Listening on port 53651
+WebDriver BiDi listening on ws://127.0.0.1:53641
+Read port: 53651
+1701301292861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53641/devtools/browser/73a0f73b-8dfc-4f7e-af34-a1844d2f5449
+JavaScript warning: https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js, line 1: Script terminated by timeout at:
+b.init/<@https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js:1:17762
+
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/813GyJOowsL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701301323408	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.imdb.com/registration/signin?ref=nv_generic_lgin&u=%2F, line 1033: Script terminated by timeout at:
+l@https://www.imdb.com/registration/signin?ref=nv_generic_lgin&u=%2F:1033:262
+
+1701301407431	Marionette	INFO	Stopped listening on port 53651
+Dynamically enable window occlusion 1
+1701301409686	geckodriver	INFO	Listening on 127.0.0.1:53753
+1701301412731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebiVJhT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701301412928	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701301413001	Marionette	INFO	Listening on port 53763
+WebDriver BiDi listening on ws://127.0.0.1:53754
+Read port: 53763
+1701301413179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53754/devtools/browser/d9f14d8b-3f24-4533-acbe-e8f8f44212bb
+JavaScript warning: https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js, line 1: Script terminated by timeout at:
+b.init/<@https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js:1:17762
+
+1701301444195	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.imdb.com/registration/signin1701301447808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileFWn5zu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701301447997	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701301448041	Marionette	INFO	Listening on port 53867
+WebDriver BiDi listening on ws://127.0.0.1:53858
+Read port: 53867
+1701301448158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53858/devtools/browser/b054a516-0f55-4de4-95a0-cd425175151b
+JavaScript warning: https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js, line 1: Script terminated by timeout at:
+b.init/<@https://c.amazon-adsystem.com/bao-csm/imdb-web-display/csmv5.js:1:17762
+
+1701301478913	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.imdb.com/registration/signin?ref=nv_generic_lgin&u=%2F, line 1033: Script terminated by timeout at:
+l@https://www.imdb.com/registration/signin?ref=nv_generic_lgin&u=%2F:1033:262
+
+1701301480239	Marionette	INFO	Stopped listening on port 53867
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/cookie-banner-rules-list Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/personality-provider-models getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
